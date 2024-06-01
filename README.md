@@ -12,7 +12,12 @@ I am a developer and a university professor in computer science, fueled by a cur
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,mysql,php,py,windows,latex,linkedin,androidstudio,discord,eclipse,git,github,gmail" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,mysql,php,py,windows,latex,github" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i= git,androidstudio,discord,eclipse,linkedin,gmail" />
   </a>
 </p>
 
