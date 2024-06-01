@@ -7,19 +7,21 @@ I am a developer and a university professor in computer science, fueled by a cur
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my post-doctorat in Computer Science at the university of québec in Montréal.
-- 📝 I substantiate my ideas by publishing conference and journal papers, which are publicly accessible on [ResearchGate] (https://www.researchgate.net/profile/Rania_Taleb).
+- 📝 I substantiate my ideas by publishing conference and journal papers, which are publicly accessible on [ResearchGate](https://www.researchgate.net/profile/Rania_Taleb).
   
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
+- 🚀 Purusing a Google project management certificate
+  - Acquiring a comprehensive grasp of the methodologies and competencies requisite for excelling in a project management position.
+  - Acquiring proficiency in generating impactful project documentation and artifacts across different project stages.
+  - Mastering the fundamentals of Agile project management, emphasizing the execution of Scrum events, the construction of Scrum artifacts, and comprehension of Scrum roles.
+  - Honing strategic communication, problem-solving abilities, and stakeholder management skills through practical application in real-world scenarios.
     
-- 🚀 Building a project in the domain of Internet of Things and Security
-  - Focusing on the security issues arising in IoT
-  - Implementing a runtime verification technique for an IoT system
-  - Enforcing security policies in an IoT system
+- 🚀 Developing a project within the domain of Internet of Things and Security
+  - Addressing security challenges inherent to IoT.
+  - Deploying a runtime verification technique for an IoT system.
+  - Enforcing security policies within an IoT framework.
   
 ## 📬 Get in Touch
 
