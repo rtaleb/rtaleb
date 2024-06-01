@@ -9,6 +9,8 @@ I am a developer and a university professor in computer science, fueled by a cur
 - 🔭 I'm currently pursuing my post-doctorat in Computer Science at the university of québec in Montréal.
 - 📝 I substantiate my ideas by publishing conference and journal papers, which are publicly accessible on my [ResearchGate](https://www.researchgate.net/profile/Rania_Taleb) page.
   
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
