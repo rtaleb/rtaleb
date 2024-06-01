@@ -10,16 +10,7 @@ I am a developer and a university professor in computer science, fueled by a cur
 - 📝 I substantiate my ideas by publishing conference and journal papers, which are publicly accessible on my [ResearchGate](https://www.researchgate.net/profile/Rania_Taleb) page.
   
 ## Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,mysql,php,py,windows,latex,github" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i= git,androidstudio,discord,eclipse,linkedin,gmail" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,php,py,latex,windows,github,git,androidstudio,discord,eclipse,linkedin,gmail&perline=8)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
