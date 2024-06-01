@@ -6,7 +6,7 @@ I am a developer and a university professor in computer science, fueled by a cur
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my post-doctorat in Computer Science at the university of québec in Montréal.
+- 🔭 I'm currently pursuing my PhD in Computer Science at the university of québec at Chicoutimi.
 - 📝 I substantiate my ideas by publishing conference and journal papers, which are publicly accessible on my [ResearchGate](https://www.researchgate.net/profile/Rania_Taleb) page.
   
 ## Tech Stack
