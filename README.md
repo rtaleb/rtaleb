@@ -14,7 +14,7 @@ I am a developer and a university professor in computer science, fueled by a cur
 
 ## 🌱 Currently Exploring
 
-- 🚀 Seeking certification in Google Project Management 
+- 🚀 Pursuing certification in Google Project Management 
   - Acquiring a comprehensive grasp of the methodologies and competencies requisite for excelling in a project management position.
   - Acquiring proficiency in generating impactful project documentation and artifacts across different project stages.
   - Mastering the fundamentals of Agile project management, emphasizing the execution of Scrum events, the construction of Scrum artifacts, and comprehension of Scrum roles.
