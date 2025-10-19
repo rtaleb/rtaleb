@@ -7,7 +7,7 @@ Fueled by a curiosity for technology and a passion for writing, my journey invol
 ## 🚀 About Me
 
 - 🔭 I finished my PhD in Computer Science at the university of québec at Chicoutimi.
-- 📝 I substantiated my ideas by publishing conference and journal papers, which are publicly accessible on my [ResearchGate](https://www.researchgate.net/profile/Rania_Taleb) page.
+- 📝 I substantiated my ideas by publishing conference and journal papers.
   
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,php,py,latex,windows,github,git,androidstudio,discord,eclipse,linkedin,gmail&perline=8)](https://skillicons.dev)
